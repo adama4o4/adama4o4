@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**adama4o4/adama4o4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student interested in networking + data analysis
+currently learning go, building small tools to solve problems
 
-Here are some ideas to get you started:
+Working on:
+- learning go by trying out different projects
+- experimenting with network-related projects
+- improving my data handling + analysis skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech/languages
+- go (learning)
+- c/c++
+- python
+- git
+
